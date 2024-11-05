@@ -35,7 +35,7 @@ For a `daa.txt` file containing:
 The quick brown fox jumps over the lazy dog
 ```
 
-**Search Query**: `previous`
+**Search Query**: `fox`
 
 **Output**:
 ```
